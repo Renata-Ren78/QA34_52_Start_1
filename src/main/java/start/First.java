@@ -138,11 +138,6 @@ public class First {
         linkLetTheCar1.click();
 
 
-
-
-
-
-
         pause(2000);
         driver.quit();
     }

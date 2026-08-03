@@ -57,7 +57,7 @@ public class SelectorsXpath {
         driver.get("https://ilcarro.web.app/registration?url=%2Fsearch");
         driver.manage().window().maximize();
 
-//        WebElement inputFirstName = driver.findElement
+//       WebElement inputFirstName = driver.findElement
 //                (By.className("ng-pristine"));
 //        inputFirstName.sendKeys("Renata");
 //
